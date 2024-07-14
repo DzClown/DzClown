@@ -33,7 +33,8 @@
     </a> 
     <a href="https://mariadb.org/" target="_blank" rel="noopener noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-    </a> <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> 
