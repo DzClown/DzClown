@@ -44,8 +44,8 @@ Currently, I'm focusing on backend development with `Express.js` and continue wo
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzclown&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzclown&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-ten-gilt-25.vercel.app/api?username=dzclown&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats-ten-gilt-25.vercel.app/api/top-langs/?username=dzclown&layout=compact&count_private=true" />
 </p>
 
 ---
