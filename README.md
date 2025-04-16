@@ -51,6 +51,6 @@ Currently, I'm focusing on backend development with `Express.js` and continue wo
 ---
 
 ### 📫 Contact Me
-- Email: yourmail@example.com  
+- Email: alvinyosua@gmail.com  
 - LinkedIn: [linkedin.com/in/alvinyosua](https://linkedin.com/in/alvinyosua)  
 - Discord: `dragonoid.id`
